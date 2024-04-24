@@ -1,6 +1,6 @@
 {
   "name": "my-simple-project",
   "build": {
-    "dockerfile": "binder/Dockerfile"
+    "dockerfile": "../binder/Dockerfile"
     }
 }
